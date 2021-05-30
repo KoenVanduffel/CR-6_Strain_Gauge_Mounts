@@ -1,6 +1,6 @@
 # Creality CR-6 SE and CR-6 MAX Bowden mounted Dragon hotend.
 
-![Image of Bowden Dragon mount](https://github.com/KoenVanduffel/CR6-DragonMounts/blob/main/BowdenSetup/20210529_195617.jpg)
+![Image of Bowden Dragon mount](https://github.com/KoenVanduffel/CR6-DragonMounts/blob/main/BowdenSetup/20210529_195617.jpg | width=500)
 
 ## 4 variants are available:
 	
