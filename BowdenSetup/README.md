@@ -1,4 +1,4 @@
-Creality CR-6 SE and CR-6 MAX Bowden mounted Dragon hotend.
+#Creality CR-6 SE and CR-6 MAX Bowden mounted Dragon hotend.
 
 4 variants are available:
 	
