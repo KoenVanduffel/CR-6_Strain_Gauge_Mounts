@@ -1,6 +1,6 @@
 # Creality CR-6 SE and CR-6 MAX Bowden mounted Dragon hotend.
 
-4 variants are available:
+## 4 variants are available:
 	
 	High flow Dragon with the fan shroud slightly higher mounted to avoid cooling the extended heatzone
 	Standard flow Dragon with fan shroud mounted lower
@@ -10,9 +10,9 @@
     M3 bolts and hot melt inserts. For the fan 2 3mm long M3 hot melts are sufficient,
 		longer is possible. For the mount to the strain gauge 7 mm long M3 hot melts are recommended.
 
-Print prefereably in PETG or other high Tg material. The bottom of the fan shroud might sag when printing in PLA.
+### Print prefereably in PETG or other high Tg material. The bottom of the fan shroud might sag when printing in PLA.
 
-Printing:
+## Printing:
 
 	0.16 mm layer height
 	activate "Use Adaptive Layers" with maximum variation and step size 0.04 mm and Topography size 0.2 mm
@@ -25,7 +25,7 @@ Printing:
 	You might ocnsider upping the flow rate to 105% to get maximum part strenth. Experiment with this setting if needed.
   
 
-Mounting:
+## Mounting:
 	
 	Mount the Dragon with the supplied bolts
 	Mount the fan with 16 or 18 mm M3 bolts
