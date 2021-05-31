@@ -1,5 +1,3 @@
-One warning: I discovered a small flaw (the mount touches the daughterboard and needs to be 1mm smaller on the left side) which will be fixed.
-
 # 40 mm fan mount
 
 The 40 mm fan mount covers both the high flow and standard flow types.
