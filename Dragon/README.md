@@ -1,3 +1,4 @@
+![cr6 Mjolnir extruder   Dragon v1](https://user-images.githubusercontent.com/13643644/121408370-a360b700-c960-11eb-94e0-7db35e4cc310.png)
 The Dragon extruder is a popular after market all metal extruder. This page host the mounts to combine the Dragon with the Mjolnir extruder (Bondtech BMG derivative).
 Needed parts:
   Dragon hotend: 
