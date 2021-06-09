@@ -5,5 +5,5 @@ The aim is to get optimally short extrusdion pathlength. The disadvantage is tha
 
 ![CR-6 stoch hotend and Mjolnir extruder](https://user-images.githubusercontent.com/13643644/121425564-d613ab00-c972-11eb-9b16-f10bbce3bcb8.png)
 ![CR6 Dragon and Orbiter extruder mount](https://user-images.githubusercontent.com/13643644/121425630-ed529880-c972-11eb-9c41-f8ee2b195533.png)
-
+![Mosquito   Orbiter mount 2](https://user-images.githubusercontent.com/13643644/121426032-65b95980-c973-11eb-9b75-b8b25f1e59a7.png)
 
