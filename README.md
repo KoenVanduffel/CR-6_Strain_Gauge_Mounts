@@ -1,4 +1,4 @@
-# CR6-DagonMounts
+# Creality CR-6 SE amd MAX extruder and hotend collection mounting directly to the strtain gauge
 A collection of hot end and extruder combination for the Creality CR-6 SE and CR-6 MAX to be mounted directly on the strain gauge design series.
 
 The aim is to get optimally short extrusdion pathlength. The disadvantage is that the stock hot end cover does not fit any longer (A series is planned which will work with the stock hot end cover, however the filament path will inevitably be somewhat longer).
