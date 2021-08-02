@@ -6,8 +6,7 @@ Next to the above advantages avoiding pushing down on the strain gauge and reduc
 The disadvantage is that the stock hot end cover does not fit any longer (A series is planned which will work with the stock hot end cover, however the filament path will inevitably be longer).
 
 The daughterboard and 5015 fan mount directory contains the modles needed to mount the daughterboard and a generic 5015 part cooling fan mount. Further work is ongoing to improve the part fan shroud and for some of the extruders there is an improved version in it's rewspective directory.
-<br/>
-<br/>
+
 ## Extruders:
 For this principle to work we need an extruder that has less than 9 mm space needed behind its filament path or it will not fit between the gantry and the hot end entrance. Two extruders have been selected:
 ### Orbiter v1.5:
