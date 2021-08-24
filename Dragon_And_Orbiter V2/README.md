@@ -1,6 +1,8 @@
 ----Difference between V1 and V2------
 
-V1 had a slight misalignment in the nozzle position (1.3mm too high) versus the stock CR6 hotend. In V2 this has been corrected. For any new installation please use V2. If you have a V1 mount use the V1 shroud, it is identical except 1.3 mm higher positioned outlet to accommodate the misalignement. 
+V1 had a slight misalignment in the nozzle position (1.3mm too high) versus the stock CR6 hotend. In V2 this has been corrected. For any new installation please use V2. If you have a V1 mount use the V1 shroud, it is identical except 1.3 mm higher positioned outlet to accommodate the misalignement.
+
+The mount present now is the one for hot melt inserts. The one using nuts will follow soon.
 
 
 ![CR6 Dragon and Orbiter extruder mount](https://user-images.githubusercontent.com/13643644/121419234-07d54380-c96c-11eb-9982-17fe5e07eb6b.png)
