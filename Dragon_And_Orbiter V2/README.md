@@ -4,6 +4,8 @@ V1 had a slight misalignment in the nozzle position (1.3mm too high) versus the 
 
 The mount present now is the one for hot melt inserts. The one using nuts will follow soon.
 
+The distance between the Orbiter and Dragon where a piece of PTFE tube is needed is 33.2 mm. Use a tube that is 1mm shorter (~32mm). It should not be compressed between the hotend and exruder which would cause it to deform and possibly hinder filament flow.
+
 
 ![CR6 Dragon and Orbiter extruder mount](https://user-images.githubusercontent.com/13643644/121419234-07d54380-c96c-11eb-9982-17fe5e07eb6b.png)
 Mounts to install the Dragon hotend and Orbiter extruder directly on the CR-6 SE amd MAX strain gauge.
