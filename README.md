@@ -1,5 +1,9 @@
 # Creality CR-6 SE & MAX extruder and hotend collection mounting directly to the strain gauge
-A collection of hot end and extruder combinations for the Creality CR-6 SE and CR-6 MAX is provided in this repo. All of them are mounted directly onto the strain gauge without any connection to the carriage. The aim is to avoid the issue of the extruder pushing down on the strain gauge and causing variation in layer height in the typical gantry mounted direct drive setups. There are a few gantry mounted direct drive setups available that try to avoid this pushing down on the strain gauge issue by installing a washer. This has the added benefit of preventing the strain gauge from oscilating to a large extent. For this reason also in this series the print will extend onto the strain gauge frame and thus greatly limit vibrations.
+A collection of hot end and extruder combinations for the Creality CR-6 SE and CR-6 MAX is provided in this repo.
+
+```For ease of use the structure has been changed with every possible hotned in a directory followed by directories with the different extruders.```
+
+All of them are mounted directly onto the strain gauge without any connection to the carriage. The aim is to avoid the issue of the extruder pushing down on the strain gauge and causing variation in layer height in the typical gantry mounted direct drive setups. There are a few gantry mounted direct drive setups available that try to avoid this pushing down on the strain gauge issue by installing a washer. This has the added benefit of preventing the strain gauge from oscilating to a large extent. For this reason also in this series the print will extend onto the strain gauge frame and thus greatly limit vibrations.
 
 Next to the above advantages avoiding pushing down on the strain gauge and reducing vibrations we also get optimally short extrusion pathlength.
 
