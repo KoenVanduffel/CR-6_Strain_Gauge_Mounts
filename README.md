@@ -3,13 +3,17 @@ A collection of hot end and extruder combinations for the Creality CR-6 SE and C
 
 ```For ease of use the structure has been changed with every possible hotned in a directory followed by directories with the different extruders.```
 
-All of them are mounted directly onto the strain gauge without any connection to the carriage. The aim is to avoid the issue of the extruder pushing down on the strain gauge and causing variation in layer height in the typical gantry mounted direct drive setups. There are a few gantry mounted direct drive setups available that try to avoid this pushing down on the strain gauge issue by installing a washer. This has the added benefit of preventing the strain gauge from oscilating to a large extent. For this reason also in this series the print will extend onto the strain gauge frame and thus greatly limit vibrations.
+All extruder / hot-end combinations are mounted directly onto the strain gauge without any connection to the carriage. The aim is to avoid the issue of the extruder pushing down on the strain gauge and causing variation in layer height in the typical gantry mounted direct drive setups. An added benefit is that the mount will prevent the strain gauge from vibrating as it blocks downward movement. Only the upward movement to enable bed measurement is allowed. Mounting the extruder this way ensures the shortest possible filament path which is exactly the aim of a direct drive setup. Only the Hemera and alike designs achieve even shorter filament paths.
 
-Next to the above advantages avoiding pushing down on the strain gauge and reducing vibrations we also get optimally short extrusion pathlength.
+There are a few gantry mounted direct drive setups available that try to avoid this pushing down on the strain gauge issue by installing a washer.
 
-The disadvantage is that the stock hot end cover does not fit any longer (A series is planned which will work with the stock hot end cover, however the filament path will inevitably be longer).
+The disadvantage is that the stock hot end cover does not fit any longer (A series is planned which will work with the stock hot end cover, however the filament path will inevitably be slightly longer).
 
-The daughterboard and 5015 fan mount directory contains the modles needed to mount the daughterboard and a generic 5015 part cooling fan mount. Further work is ongoing to improve the part fan shroud and for some of the extruders there is an improved version in it's rewspective directory.
+## Daughterboard
+The daughterboard needs to be mounted on its own mount as the stock mount interferes with the extruder. A separate mount can be found in the daughtherboard directory.
+
+## fan mount
+A series of generic 5015 part cooling fan mounts optimized for each hotend is provided. With thanks to Alex for the idea of the "ears" the fan shroud design has been greatly improved and cooling efficiency of this 5015 fan is very high (enabling lower speed / quieter operation).
 
 ## Extruders:
 For this principle to work we need an extruder that has less than 9 mm space needed behind its filament path or it will not fit between the gantry and the hot end entrance. Two extruders have been selected:
