@@ -1,3 +1,41 @@
+# A little to the history of the mount
+
+The Dragon + Orbiter mount has gone trough a few variations. The main idea stayed however the same.
+
+The last update introduced a hotend cooling fan stator after a report of the fan stalling causing jamming of the hotend. The fan stall situation could be reproduced by just reducing the stock Creality fan power to 20V and hence this was way too close to the problem zone not to address. Both Sunnon 3010 fans I have did not show any stalling.
+
+I do not want to take off the fan shroud (which would solve the hotend clogging issue) because that will cool the melt zone and decrease extrusion performance. A known technique to avoid stalling of axial fans is to add a stator to clean up the airflow. A series of different stator designs in combination with varying outlet diameters has been tested and the best one chosen. The airflow is now higher and more directed than without a shroud.
+
+<img src="C:\Users\nc8051\GitHub\CR6-DragonMounts\Dragon high flow\Orbiter\images\README\CR-6 Dragon & Orbiter mount with stator fan.png" alt="CR-6 Dragon & Orbiter mount with stator fan" style="zoom:75%;" />
+
+# Printing
+
+Print in PETG or higher Tg material. PLA might not be sufficient as the fan shroud comes too close to the heater block.
+
+* 2 outer layers and 2 top and bottom layers
+* Alternating layer with infill
+* Connected infill lines
+
+(minimum required, more layers may be used)
+* Infill: 20% gyroid
+* layer height 0.24 mm
+* line width 0.5 mm
+* print 5 to 10 °C hotter than usual to improve layer bonding
+* reduce fan speed to improve layer bonding
+* no supports needed
+
+# Mounting instructions
+
+6 M3 x 7 mm hot melt inserts are needed (the 2 hotmelts for the fan may be shorter). The 2 hot melts for the extruder are inserted from the top, the 2 for the strain gauge mount from the bottom of the mount block. The 2 hot melt inserts in the bottom might have some plastic on their tips. This can be cleaned up wiht a drill or by inserting a screw from the bottom. Turn this screw all the way trough to clear the small amount of plastic that accumulated in the screw path.
+
+Bolt the hotend to the block using the 4 longer M2.5 bolts provided with the hotend.The M2.5 bolts drop trough the mount block.
+
+Now mount the block to the strain gauge with M3 x 12 mm bolts. Be carefull not to use to long bolts as they will end up against the hotend.
+
+Insert a 33 mm PTFE tube (the path is 33.5 mm long make sure the tube is just a little shorter). Push the tube down so it seats into the little recess in the top of the hotend. The top of the piece sticking out is best to cut a small taper to make it easier to insert filament (avoid filament from pushing to the top of the PTFE tube).
+
+Mount the extruder with an M3 x 10 acrew on the left and M10 x 8 on the right side (an M3 x 10 would risk damaging the strain gauge sensor under the white glue on the left side).
+
 # Difference between V1 and V2
 
 V1 had a slight misalignment in the nozzle position (1.3mm too high) versus the stock CR6 hotend. In V2 this has been corrected. For any new installation please use V2. If you have a V1 mount use the V1 shroud, it is identical except 1.3 mm higher positioned outlet to accommodate the misalignement.
