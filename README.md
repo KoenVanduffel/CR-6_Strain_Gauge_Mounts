@@ -1,4 +1,22 @@
+
+
+
+
+TOC
+
+  * [Daughterboard](#daughterboard)
+  * [fan mount](#fan-mount)
+  * [Extruders:](#extruders-)
+    + [Orbiter **V1.5**:](#orbiter---v15---)
+    + [Mjolnir:](#mjolnir-)
+  * [Hot ends:](#hot-ends-)
+    + [Dragon](#dragon)
+    + [Mosquito](#mosquito)
+    + [MicroSwiss for Creality CR-6](#microswiss-for-creality-cr-6)
+    + [Stock hotend](#stock-hotend)
+
 # Creality CR-6 SE & MAX extruder and hotend collection mounting directly to the strain gauge
+
 A collection of hot end and extruder combinations for the Creality CR-6 SE and CR-6 MAX is provided in this repo.
 
 ```For ease of use the structure has been changed with every possible hotend in a directory followed by directories with the different extruders.```
@@ -35,7 +53,9 @@ The hot ends chosen all have mount screw holes on the top making them rather eas
 <br/>
 Just a couple of examples:
 
-![CR-6 stoch hotend and Mjolnir extruder](https://user-images.githubusercontent.com/13643644/121425564-d613ab00-c972-11eb-9b16-f10bbce3bcb8.png)
-![CR6 Dragon and Orbiter extruder mount](https://user-images.githubusercontent.com/13643644/121425630-ed529880-c972-11eb-9c41-f8ee2b195533.png)
+![CR-6 Dragon & Orbiter mount with stator fan](images/README/CR-6 Dragon & Orbiter mount with stator fan.png)![CR-6 stoch hotend and Mjolnir extruder](https://user-images.githubusercontent.com/13643644/121425564-d613ab00-c972-11eb-9b16-f10bbce3bcb8.png)
+
 ![Mosquito   Orbiter mount 2](https://user-images.githubusercontent.com/13643644/121426032-65b95980-c973-11eb-9b75-b8b25f1e59a7.png)
+
+
 
