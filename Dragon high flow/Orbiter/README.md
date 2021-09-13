@@ -1,4 +1,4 @@
-----Difference between V1 and V2------
+# Difference between V1 and V2
 
 V1 had a slight misalignment in the nozzle position (1.3mm too high) versus the stock CR6 hotend. In V2 this has been corrected. For any new installation please use V2. If you have a V1 mount use the V1 shroud, it is identical except 1.3 mm higher positioned outlet to accommodate the misalignement.
 
