@@ -1,5 +1,6 @@
--------UNDER CONSTRUCTION---------
+**DEPRACATED**
 
+For any new print please use V2.
 
 The files in this directory are kept here for those who printed and are using the original version of the Dragon & Orbiter mount.
 

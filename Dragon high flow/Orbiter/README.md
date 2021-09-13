@@ -43,7 +43,7 @@ Bolt the hotend to the block using the 4 longer M2.5 bolts provided with the hot
 
 <img src="images/README/20210912_214753.jpg" alt="20210912_214753" width="40%" />
 
-Now mount the block to the strain gauge with M3 x 12 mm bolts. Be carefull not to use to long bolts as they will end up against the hotend.
+Now mount the block to the strain gauge with M3 x 14 mm bolts. Be carefull not to use to long bolts as they will end up against the hotend.
 
 <img src="images/README/20210912_215818.jpg" alt="20210912_215818" width="40%">
 
@@ -51,7 +51,7 @@ Insert a 33 mm PTFE tube (the path is 33.5 mm long make sure the tube is just a 
 
 <img src="images/README/20210912_221635.jpg" alt="20210912_221635" width="40%" />
 
-Mount the extruder with an M3 x 10 bolt on the left and M10 x 8 on the right side (an M3 x 10 would risk damaging the strain gauge sensor under the white glue on the left side).
+Mount the extruder with two M3 x 10 bolts (an M3 x 12 would risk damaging the strain gauge sensor under the white glue on the left side).
 
 <img src="images/README/20210912_220116.jpg" alt="20210912_220116" width="40%" />
 
