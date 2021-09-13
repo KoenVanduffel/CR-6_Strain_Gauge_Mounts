@@ -26,17 +26,25 @@ Print in PETG or higher Tg material. PLA might not be sufficient as the fan shro
 
 # Mounting instructions
 
-6 M3 x 7 mm hot melt inserts are needed (the 2 hotmelts for the fan may be shorter). The 2 hot melts for the extruder are inserted from the top, the 2 for the strain gauge mount from the bottom of the mount block. The 2 hot melt inserts in the bottom might have some plastic on their tips. This can be cleaned up wiht a drill or by inserting a screw from the bottom. Turn this screw all the way trough to clear the small amount of plastic that accumulated in the screw path.<img src="images/README/20210912_214345.jpg" alt="20210912_214345" width="60%" />
+6 M3 x 7 mm hot melt inserts are needed (the 2 hotmelts for the fan may be shorter). The 2 hot melts for the extruder are inserted from the top, the 2 for the strain gauge mount from the bottom of the mount block. The 2 hot melt inserts in the bottom might have some plastic on their tips. This can be cleaned up wiht a drill or by inserting a screw from the bottom. Turn this screw all the way trough to clear the small amount of plastic that accumulated in the screw path.width="60%"
 
 <img src="images/README/20210912_214357.jpg" alt="20210912_214357" width="60%" />
 
-Bolt the hotend to the block using the 4 longer M2.5 bolts provided with the hotend.The M2.5 bolts drop trough the mount block. The heater block should be turned 90° to the left such that the fan shroud will later on fit around it.<img src="images/README/20210912_214753.jpg" alt="20210912_214753" width="60%" />
+Bolt the hotend to the block using the 4 longer M2.5 bolts provided with the hotend.The M2.5 bolts drop trough the mount block. The heater block should be turned 90° to the left such that the fan shroud will later on fit around it.
 
-Now mount the block to the strain gauge with M3 x 12 mm bolts. Be carefull not to use to long bolts as they will end up against the hotend.<img src="images/README/20210912_215818.jpg" alt="20210912_215818" width="60%" width="60%" />
+<img src="images/README/20210912_214753.jpg" alt="20210912_214753" width="60%" />
 
-Insert a 33 mm PTFE tube (the path is 33.5 mm long make sure the tube is just a little shorter). Push the tube down so it seats into the little recess in the top of the hotend. The top of the piece sticking out is best to cut a small taper to make it easier to insert filament (avoid filament from pushing to the top of the PTFE tube).<img src="images/README/20210912_221635.jpg" alt="20210912_221635" width="60%" />
+Now mount the block to the strain gauge with M3 x 12 mm bolts. Be carefull not to use to long bolts as they will end up against the hotend.
 
-Mount the extruder with an M3 x 10 bolt on the left and M10 x 8 on the right side (an M3 x 10 would risk damaging the strain gauge sensor under the white glue on the left side).<img src="images/README/20210912_220116.jpg" alt="20210912_220116" width="60%" />
+<img src="images/README/20210912_215818.jpg" alt="20210912_215818" width="60%" width="60%" />
+
+Insert a 33 mm PTFE tube (the path is 33.5 mm long make sure the tube is just a little shorter). Push the tube down so it seats into the little recess in the top of the hotend. The top of the piece sticking out is best to cut a small taper to make it easier to insert filament (avoid filament from pushing to the top of the PTFE tube).
+
+<img src="images/README/20210912_221635.jpg" alt="20210912_221635" width="60%" />
+
+Mount the extruder with an M3 x 10 bolt on the left and M10 x 8 on the right side (an M3 x 10 would risk damaging the strain gauge sensor under the white glue on the left side).
+
+<img src="images/README/20210912_220116.jpg" alt="20210912_220116" width="60%" />
 
 # Difference between V1 and V2
 
