@@ -8,7 +8,7 @@ The Dragon + Orbiter mount has gone trough a few variations. The main idea staye
 
 The last update introduced a hotend cooling fan stator after a report of the fan stalling causing jamming of the hotend. The fan stall situation could be reproduced by just reducing the stock Creality fan power to 20V and hence this was way too close to the problem zone not to address. Both Sunnon 3010 fans I have did not show any stalling.
 
-I do not want to take off the fan shroud (which would solve the hotend clogging issue) because that will cool the melt zone and decrease extrusion performance. A known technique to avoid stalling of axial fans is to add a stator to clean up the airflow. A series of different stator designs in combination with varying outlet diameters has been tested and the best one chosen. The airflow is now higher and more directed than without a shroud.
+I do not want to take off the fan shroud (which would solve the hotend clogging issue) because that will cool the melt zone and decrease extrusion performance. A known technique to avoid stalling of axial fans is to add a stator to clean up the airflow. A series of different stator designs in combination with varying outlet diameters has been tested and the best one chosen. The airflow is now higher and more directed than without a shroud. 
 
 <img src="images/README/CR-6 Dragon & Orbiter mount with stator fan.png" alt="CR-6 Dragon & Orbiter mount with stator fan" width="60%" />
 
