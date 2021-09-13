@@ -55,7 +55,7 @@ Just a couple of examples:
 
 <img src="images/README/CR-6 Dragon & Orbiter mount with stator fan.png" alt="CR-6 Dragon & Orbiter mount with stator fan" width="60%" />
 
-![CR-6 Dragon & Orbiter mount with stator fan](images/README/CR-6 Dragon & Orbiter mount with stator fan.png)![CR-6 stoch hotend and Mjolnir extruder](https://user-images.githubusercontent.com/13643644/121425564-d613ab00-c972-11eb-9b16-f10bbce3bcb8.png)
+![CR-6 stoch hotend and Mjolnir extruder](https://user-images.githubusercontent.com/13643644/121425564-d613ab00-c972-11eb-9b16-f10bbce3bcb8.png width="60%")
 
 ![Mosquito   Orbiter mount 2](https://user-images.githubusercontent.com/13643644/121426032-65b95980-c973-11eb-9b75-b8b25f1e59a7.png)
 
