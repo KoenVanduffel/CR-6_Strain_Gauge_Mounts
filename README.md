@@ -1,7 +1,7 @@
 # Creality CR-6 SE & MAX extruder and hotend collection mounting directly to the strain gauge
 A collection of hot end and extruder combinations for the Creality CR-6 SE and CR-6 MAX is provided in this repo.
 
-```For ease of use the structure has been changed with every possible hotned in a directory followed by directories with the different extruders.```
+```For ease of use the structure has been changed with every possible hotend in a directory followed by directories with the different extruders.```
 
 All extruder / hot-end combinations are mounted directly onto the strain gauge without any connection to the carriage. The aim is to avoid the issue of the extruder pushing down on the strain gauge and causing variation in layer height in the typical gantry mounted direct drive setups. An added benefit is that the mount will prevent the strain gauge from vibrating as it blocks downward movement. Only the upward movement to enable bed measurement is allowed. Mounting the extruder this way ensures the shortest possible filament path which is exactly the aim of a direct drive setup. Only the Hemera and alike designs achieve even shorter filament paths.
 
