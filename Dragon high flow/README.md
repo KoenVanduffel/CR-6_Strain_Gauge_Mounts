@@ -8,4 +8,4 @@ There are 3 extruder options:
 
 A version using the Voron Galileo Clockwork extruder is in the planning. The Galileo Clockwork uses the internals of the Orbiter and will thus perform very similar.
 
-There have been multiple requests to make a Bondtech LGX or Superfly version. These extruders are however too bulky and simply don't fit in the space available. To mount these they have to be lifted over the carriage back plate which will increase vibrations as the momentum on the strain gauge is increased.
+`There have been multiple requests to make a Bondtech LGX or Superfly version. These extruders are however too bulky and simply don't fit in the space available. To mount these they have to be lifted over the carriage back plate which will increase vibrations as the momentum on the strain gauge is increased.`

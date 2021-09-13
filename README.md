@@ -17,7 +17,7 @@ A series of fan mounts using a generic 5015 blower fan mounts optimized for each
 
 ## Extruders:
 For this principle to work we need an extruder that has less than 9 mm space needed behind its filament path or it will not fit between the gantry and the hot end entrance. Two extruders have been selected:
-### Orbiter **v1.5**:
+### Orbiter **V1.5**:
 > The Orbiter is the highest performing extruder I have tested. With PETG in combination with a high flow Dragon I get up to 600 mm/min (or 25 mm3/s) extrusion speed with just 1.5% deviation versus no resistance at all.
 
 ### Mjolnir:
