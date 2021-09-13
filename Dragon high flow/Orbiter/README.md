@@ -1,5 +1,3 @@
-[TOC]
-
 
 
 # A little to the history of the mount
