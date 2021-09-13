@@ -10,22 +10,25 @@ There are a few gantry mounted direct drive setups available that try to avoid t
 The disadvantage is that the stock hot end cover does not fit any longer (A series is planned which will work with the stock hot end cover, however the filament path will inevitably be slightly longer).
 
 ## Daughterboard
-The daughterboard needs to be mounted on its own mount as the stock mount interferes with the extruder. A separate mount can be found in the daughtherboard directory.
+The daughterboard needs to be mounted on its own mount as the stock mount interferes with the extruder. A separate mount can be found in the daughterboard directory.
 
 ## fan mount
-A series of generic 5015 part cooling fan mounts optimized for each hotend is provided. With thanks to Alex for the idea of the "ears" the fan shroud design has been greatly improved and cooling efficiency of this 5015 fan is very high (enabling lower speed / quieter operation).
+A series of fan mounts using a generic 5015 blower fan mounts optimized for each hotend is provided. With thanks to Alex for the idea of the "ears" the fan shroud design has been greatly improved and cooling efficiency of this 5015 fan is very high (enabling lower speed / quieter operation).
 
 ## Extruders:
 For this principle to work we need an extruder that has less than 9 mm space needed behind its filament path or it will not fit between the gantry and the hot end entrance. Two extruders have been selected:
-### Orbiter v1.5:
-    The orbniter is the highest performing extruder I have tested. With PETG in combination with a high flow Dragon I get up to 600 mm/min (or 25 mm3/s) extrusion speed with just 1.5% deviation versus no resistance at all.
+### Orbiter **v1.5**:
+> The Orbiter is the highest performing extruder I have tested. With PETG in combination with a high flow Dragon I get up to 600 mm/min (or 25 mm3/s) extrusion speed with just 1.5% deviation versus no resistance at all.
+
 ### Mjolnir:
-    An extruder using the internals of a BMG extruder. For this any BMG extruder or clone can be used. Also a set of the internals of a BMG extruder is sufficient. The performance is similar to a genuine BMG extruder or its clone variant. I measured an extrusion drop of 5 to 6% with PETG in identical circumstances and filament as the test with the Orbiter. Not as good as the orbiter but still more than sufficient for standard or even slightly higher print speeds.
+> An extruder using the internals of a BMG extruder. For this any BMG extruder or clone can be used. Also a set of the internals of a BMG extruder is sufficient. The performance is similar to a genuine BMG extruder or its clone variant. I measured an extrusion drop of 5 to 6% with PETG in identical circumstances and filament as the test with the Orbiter. Not as good as the orbiter but still more than sufficient for standard or even slightly higher print speeds.
+>
 
 ## Hot ends:
 The hot ends chosen all have mount screw holes on the top making them rather easy to mount. Also are they significant all metal upgrades to the stock hot end.
 ### Dragon
-    both high flow and standard flow
+> both high flow and standard flow
+
 ### Mosquito
 ### MicroSwiss for Creality CR-6
 ### Stock hotend
