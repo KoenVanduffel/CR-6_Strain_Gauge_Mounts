@@ -1,4 +1,4 @@
-# Dragon high flow hotenders
+# Dragon high flow hotends
 The Dragon high flow hotend (TriangleLabs and Phaetus version are nearly identical and fit both) has a strong reputation of being a reasonably priced high qualtiy hotend. Personally i prefer the high flow version as it hasn't shown any of the disadvantages sometimes attributed to a high flow hotend but does have the advantage of being capable of melting al lot of plastic.
 
 There are 3 extruder options:
