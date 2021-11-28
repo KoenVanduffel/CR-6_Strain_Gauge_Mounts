@@ -21,6 +21,14 @@ On the 2 section analysis the internal flow redirector is visible. A blower fan 
 
 The simulation picture shows the effect ot the ears in avoiding a "shadow" directly to the left ot the nozzle. Basically they make the airflow converge again.
 
+I ran the Teaching tech 4-way overhang test to validate my design: https://www.thingiverse.com/thing:3167063
+
+![20211128_173728](https://user-images.githubusercontent.com/13643644/143777775-7f4714e1-eafe-4297-be54-ab6fa59418cc.jpg)
+![20211128_173451](https://user-images.githubusercontent.com/13643644/143777779-1cc8d4be-a9ae-40d5-b931-04c762d52269.jpg)
+![20211128_173757](https://user-images.githubusercontent.com/13643644/143777800-92ae731e-ab8d-4e25-90d5-e8158084ae26.jpg)
+
+This test produces overhangs up to 80°. Up to 60° the overhangs are perfect, 70° is perfectly useable and even 80° would be usefull if no other way is found and some sagging is accepted (PLA @200 °C, 0.4 mm nozzle, 0.2 mm layer height, 0.45 mm line width, 25 mm/s exterior walls). I tested slower print speeds but that produces lesser results. Using the 5015 the results are less good when printing faster. The 5020 manages up to 50 mm/s with no/barely loss in overhang quality. Beyond 50 mm/s outer layer speed a 10° lesser overhang maximum should be used.
+
 ### Print settings:
 - layer_height = 0.2
   layer_height_0 = 0.24
