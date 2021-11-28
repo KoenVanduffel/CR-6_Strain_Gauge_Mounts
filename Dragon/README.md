@@ -9,11 +9,12 @@ The part fan shroud in this directory fits all extruder versions, high flow as w
 The "ears" have been opened up as it was found not needed to close as much as earlier versions did. This further improves cooling efficiency.
 A secondary channel pushing some air directly downwards below the fan shroud has been added as this region was getting less cooling thus fixing the reduced overhang capability in that region.
 
-![CR-6 5020 part fan shroud](https://user-images.githubusercontent.com/13643644/143776413-02bd8767-cd84-4004-bbd4-ad52dea7695e.png)
+![CR-6 5020 part fan shroud](https://user-images.githubusercontent.com/13643644/143776517-cbcf099e-0687-4bb6-a013-04b0f3e28d35.png)
 
-![CR-6 5020 part fan shroud 2](https://user-images.githubusercontent.com/13643644/143776417-60f4a3e3-1c20-4332-a2d8-2f6d7f4614c8.png)
+![CR-6 5020 part fan shroud 2](https://user-images.githubusercontent.com/13643644/143776523-497f014b-fd28-4006-ba1f-3c018487c84e.png)
 
-![CR-6 5020 part fan shroud 3](https://user-images.githubusercontent.com/13643644/143776421-95bcebfe-7b25-47c1-8364-529b40e263ec.png)
+![CR-6 5020 part fan shroud 3](https://user-images.githubusercontent.com/13643644/143776528-6933e415-0acf-47af-9bb0-e5d9749d4664.png)
+
 
 ### Print settings:
 - layer_height = 0.2
