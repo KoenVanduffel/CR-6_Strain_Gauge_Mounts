@@ -15,6 +15,7 @@ A secondary channel pushing some air directly downwards below the fan shroud has
 
 ![CR-6 5020 part fan shroud 3](https://user-images.githubusercontent.com/13643644/143776528-6933e415-0acf-47af-9bb0-e5d9749d4664.png)
 
+![CR-6 part fan shroud simulation](https://user-images.githubusercontent.com/13643644/143776937-34ad5a81-86d1-4438-b0e7-ed1afa60f710.png)
 
 ### Print settings:
 - layer_height = 0.2
