@@ -17,6 +17,10 @@ A secondary channel pushing some air directly downwards below the fan shroud has
 
 ![CR-6 part fan shroud simulation](https://user-images.githubusercontent.com/13643644/143776937-34ad5a81-86d1-4438-b0e7-ed1afa60f710.png)
 
+On the 2 section analysis the internal flow redirector is visible. A blower fan typically gives a higher output flow towards the circumference versus the inside The devider helps correcting that. The second devider lets some air flow to just below the shroud as this area gets too short cooling time when the hoten dmoves to the left.
+
+The simulation picture shows the effect ot the ears in avoiding a "shadow" directly to the left ot the nozzle. Basically they make the airflow converge again.
+
 ### Print settings:
 - layer_height = 0.2
   layer_height_0 = 0.24
