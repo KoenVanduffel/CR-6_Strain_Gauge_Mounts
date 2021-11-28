@@ -1,4 +1,15 @@
-[TOC]
+- [Creality CR-6 SE & MAX extruder and hotend collection mounting directly to the strain gauge](#creality-cr-6-se---max-extruder-and-hotend-collection-mounting-directly-to-the-strain-gauge)
+  * [Daughterboard](#daughterboard)
+  * [fan mount](#fan-mount)
+  * [Extruders:](#extruders-)
+    + [Orbiter **V1.5**:](#orbiter---v15---)
+    + [Mjolnir:](#mjolnir-)
+    + [Bondtech LGX Lite:](#bondtech-lgx-lite-)
+  * [Hot ends:](#hot-ends-)
+    + [Dragon](#dragon)
+    + [Mosquito](#mosquito)
+    + [MicroSwiss for Creality CR-6](#microswiss-for-creality-cr-6)
+    + [Stock hotend](#stock-hotend)
 
 # Creality CR-6 SE & MAX extruder and hotend collection mounting directly to the strain gauge
 
