@@ -1,4 +1,4 @@
-[TOC]
+[[_TOC_]]
 
 # Creality CR-6 SE & MAX extruder and hotend collection mounting directly to the strain gauge
 
