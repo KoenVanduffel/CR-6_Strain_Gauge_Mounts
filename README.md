@@ -24,7 +24,7 @@ There are a few gantry mounted direct drive setups available that try to avoid t
 The disadvantage is that the stock hot end cover does not fit any longer (A series is planned which will work with the stock hot end cover, however the filament path will inevitably be slightly longer).
 
 ## Daughterboard
-The daughterboard needs to be mounted on its own mount as the stock mount interferes with the extruder. A separate mount can be found in the daughterboard directory.
+The daughterboard needs to be mounted on its own mount as the stock mount interferes with the extruder. A separate mount can be found in the daughterboard directory. 2 versions are available: one to mount the PCB bare to the mount and a second to use the original plastic mount plate to enable mounting the LED.
 
 ## fan mount
 A series of fan mounts using generic 5015 or 5020 blower fan mounts optimized for each hotend is provided. With thanks to Alex for the idea of the "ears" the fan shroud design has been greatly improved and cooling efficiency of this 5015 fan is very high (enabling lower speed / quieter operation).
@@ -34,12 +34,15 @@ The fan mount has to be printed in PETG, ASA, ABS PCTG or another higher tempera
 For this principle to work we need an extruder that has less than 9 mm space needed behind its filament path or it will not fit between the gantry and the hot end entrance. Two extruders have been selected:
 ### Orbiter **V1.5**:
 > The Orbiter is the highest performing extruder I have tested. With PETG in combination with a high flow Dragon I get up to 600 mm3/min (or 25 mm3/s) extrusion speed with just 1.5% deviation versus no resistance at all.
+>The Orbiter has a high gear ratio which is beneficial for extrusion as it will improve acccuracy significantly. It has been found that this can cause noise when using the filament unload function of the Community Firmware. The speed is set so high that the extruder will run at nearly 800 rpm. This will not damage the motor but some people have reported that it makes a lot of noise (probably skipping of the motor).
+
+### Orbiter **V2.0**
+>The Orbiter V2.0 is currently NOT supported! It might be an upgraded extruder versus the V1.5 however it does not fit on the strain gauge. The drive gears have been turned around which makes it collide with the back carriage plate.
 
 ### Mjolnir:
 > An extruder using the internals of a BMG extruder. For this any BMG extruder or clone can be used. Also a set of the internals of a BMG extruder is sufficient. The performance is similar to a genuine BMG extruder or its clone variant. I measured an extrusion drop of 5 to 6% with PETG in identical circumstances and filament as the test with the Orbiter. Not as good as the orbiter but still more than sufficient for standard or even slightly higher print speeds.
 
 ### Bondtech LGX Lite:
-
 > The all new Bondtech LGX Lite extruder (NOT THE REGULAR LGX, that one too bulky to fit the CR-6). A mount is modeled but untested for now as I do not own an LGX lite. This could well become the highest performance option as its lighter and more compact than the Orbiter 1.5 and  can be mounted closer to the strain gauge bringing the center of mass of the whole hotend assembly closer to the strain gauge thus avoiding vibration of the strain gauge upon higher accelerations.
 > Extrusion performance is obviously untested by me but should be equal to or better than the Orbiter.
 
