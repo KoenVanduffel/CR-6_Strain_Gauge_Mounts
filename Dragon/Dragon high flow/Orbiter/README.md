@@ -33,7 +33,7 @@ Print in PETG or higher Tg material. PLA might not be sufficient as the fan shro
 * reduce fan speed to improve layer bonding
 * no supports needed
 
-* make sure horizontal expansion is not enabled!!! otherwise the stotor will not print correctly.
+* make sure horizontal expansion is not enabled!!! otherwise the stotor will not slice correctly.
 
 # Mounting instructions
 
