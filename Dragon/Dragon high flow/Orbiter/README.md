@@ -33,6 +33,8 @@ Print in PETG or higher Tg material. PLA might not be sufficient as the fan shro
 * reduce fan speed to improve layer bonding
 * no supports needed
 
+* make sure horizontal expansion is not enabled!!! otherwise the stotor will not print correctly.
+
 # Mounting instructions
 
 6 M3 x 7 mm hot melt inserts are needed (the 2 hotmelts for the fan may be shorter). The 2 hot melts for the extruder are inserted from the top, the 2 for the strain gauge mount from the bottom of the mount block. The 2 hot melt inserts in the bottom might have some plastic on their tips. This can be cleaned up wiht a drill or by inserting a screw from the bottom. Turn this screw all the way trough to clear the small amount of plastic that accumulated in the screw path.width="60%"
