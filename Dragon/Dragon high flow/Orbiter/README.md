@@ -28,7 +28,7 @@ Print in PETG or higher Tg material. PLA might not be sufficient as the fan shro
 (minimum required, more layers may be used)
 * Infill: 20% gyroid
 * layer height 0.24 mm
-* line width 0.5 mm
+* line width 0.45 mm
 * print 5 to 10 °C hotter than usual to improve layer bonding
 * reduce fan speed to improve layer bonding
 * no supports needed
