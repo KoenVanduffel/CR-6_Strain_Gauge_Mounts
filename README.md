@@ -24,7 +24,8 @@ There are a few gantry mounted direct drive setups available that try to avoid t
 The disadvantage is that the stock hot end cover does not fit any longer (A series is planned which will work with the stock hot end cover, however the filament path will inevitably be slightly longer).
 
 ## Daughterboard
-The daughterboard needs to be mounted on its own mount as the stock mount interferes with the extruder. A separate mount can be found in the daughterboard directory. 2 versions are available: one to mount the PCB bare to the mount and a second to use the original plastic mount plate to enable mounting the LED.
+The daughterboard needs to be mounted on its own mount as the stock mount interferes with the extruder. A separate mount can be found in the daughterboard directory. 3 versions are available: one to mount the PCB directly to the mount (on standoffs) and two others that allow/require you to use the plastic OEM mounting plate/cover to mount the board to the plate.  The first mount places the board too low for the LED to safely clear your models and bed clips.
+NOTE: Whichever of these daughterboard mounts you use, the LED will no longer be positioned to shine below the nozzle unless you design and make your own modifications to address that.
 
 ## fan mount
 A series of fan mounts using generic 5015 or 5020 blower fan mounts optimized for each hotend is provided. With thanks to Alex for the idea of the "ears" the fan shroud design has been greatly improved and cooling efficiency of this 5015 fan is very high (enabling lower speed / quieter operation).
