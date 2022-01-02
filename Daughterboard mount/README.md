@@ -1,7 +1,13 @@
-The mounts will not allow the original hotend cover to be mounted any more. Hence there is a mount for the daugfhterboard and a 5015 part fan.
-The stock 4010 part fan mount is to follow soon.
+### Updated daughter board mount and ribbon cable management
 
 
-These are not needed for the Bowden setup's. In that case the stock hotend cover still fits. Feel free to use them however.
 
-The Part fan Shroud V2 is an improved version of the part fan shroud featureing a more flat oriented airflow giving better cooling performance at the backside of the part (relative to the cooling fan).
+The original hot end cover and daughter board mounts are not useful any more as the extruder & hot end mounts come in the way (except for some of the Bowden setup's). Therefore these companion daughter board mounts and cable management have been made.
+
+The daughter board mount V1.1 (still available) was only a small mount just enough to hold eth daughter board in place.
+
+The updated mount supports the whole board and has a clamp to hold the lowest rather flexible part of the ribbon cable. This works in conjunction with  the ribbon cable clamps and ribbon cable holder (which clips over the pulley housing of the X-axis motor).
+
+
+
+The part fan shroud has been moved out of this directory into the different hot end directories. The different sizes of heater blocks ask for slightly different designs for the different hot ends.
