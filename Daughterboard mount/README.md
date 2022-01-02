@@ -9,7 +9,7 @@ The updated mount supports the whole board and has a clamp to hold the lowest ra
 
 
 
-For the daughterboard mount there are 2 options. One to mount the daughterboard bare and one to mount it with the original plastic back to enable the use of the blue LED.
+For the daughterboard mount there are additional options. One to mount the with the original plastic back to enable the use of the blue LED. and one with a right angled approach to enable easier cable management (requires somewhat longer than stock heater and thermistor wires).
 
 
 
