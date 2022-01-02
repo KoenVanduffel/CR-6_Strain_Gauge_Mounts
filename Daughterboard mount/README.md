@@ -10,3 +10,5 @@ The updated mount supports the whole board and has a clamp to hold the lowest ra
 For the daughterboard mount there are additional options. One to mount the with the original plastic back to enable the use of the blue LED. and one with a right angled approach to enable easier cable management (requires somewhat longer than stock heater and thermistor wires). The daughter board mount V1.1 (still available) was only a small mount just enough to hold eth daughter board in place.
 
 The part fan shroud has been moved out of this directory into the different hot end directories. The different sizes of heater blocks ask for slightly different designs for the different hot ends.
+
+![20220102_094108.jpg](C:\Users\koenv\Documents\assets\e592b1c72785a10e0b1dbd2649c9a01dfca2fd27.jpg)
