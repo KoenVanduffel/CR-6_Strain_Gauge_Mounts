@@ -1,12 +1,15 @@
 ### Updated daughter board mount and ribbon cable management
 
 
-
 The original hot end cover and daughter board mounts are not useful any more as the extruder & hot end mounts come in the way (except for some of the Bowden setup's). Therefore these companion daughter board mounts and cable management have been made.
 
 The daughter board mount V1.1 (still available) was only a small mount just enough to hold eth daughter board in place.
 
 The updated mount supports the whole board and has a clamp to hold the lowest rather flexible part of the ribbon cable. This works in conjunction with  the ribbon cable clamps and ribbon cable holder (which clips over the pulley housing of the X-axis motor).
+
+
+
+For the daughterboard mount there are 2 options. One to mount the daughterboard bare and one to mount it with the original plastic back to enable the use of the blue LED.
 
 
 
