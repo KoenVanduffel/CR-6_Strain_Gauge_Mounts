@@ -49,7 +49,7 @@ Now mount the block to the strain gauge with M3 x 14 mm bolts. Be careful not to
 
 <img src="images/README/20210912_215818.jpg" alt="20210912_215818" width="40%">
 
-Insert a 33 mm PTFE tube (the path is 33.5 mm long make sure the tube is just a little shorter). Push the tube down so it seats into the little recess in the top of the hotend. The cut the top of the piece sticking out to taper it. This will make it easier to insert filament without the filament end catching on the top edge of the PTFE tube.
+Insert a 33 mm PTFE tube (the path is 33.5 mm long make sure the tube is just a little shorter). Push the tube down so it seats into the little recess in the top of the hotend. Cut into a taper the top of the end of the tube which will fit up into the Orbiter. The taper will make it easier to insert filament into the hotend without the filament end catching on the top edge of the PTFE tube.
 
 <img src="images/README/20210912_221635.jpg" alt="20210912_221635" width="40%" />
 
@@ -70,10 +70,10 @@ The distance between the Orbiter and Dragon where a piece of PTFE tube is needed
 Mounts to install the Dragon hotend and Orbiter extruder directly on the CR-6 SE amd MAX strain gauge.
 
 
-The 5015 part fan mount has been designed after a lot of iteration with the help of Alex. The idea is that it comes very close to the build plate and surrounds the sock with about 1 mm in order to push as much air as possible close to the nozzle. The roundings at the sides are to ensure the air is pushed back inwards behind the nozzle to also cool the freshly laid plastic when the nozzle moves towards the fan shroud.
+The 5015 part fan mount has been designed after a lot of iteration with the help of Alex. The idea is that it comes very close to the build plate and surrounds the sock, with about 1 mm of clearance, to push as much air as possible close to the nozzle. The sides of the duct outlet are rounded into "wings" to ensure that air is pushed back inwards behind the nozzle, to also cool the freshly laid plastic when the nozzle moves towards the fan shroud.
 I believe this approach is more effective than a twin fang design where both airflows will inevitably collide and cause certain angles to get little to no airflow at all.
 
-Printed in PETG, this fan shroud has been tested and has not shown any heat damage, with the hotend at 300 °C, the nozzle at 0.2 mm from the hot bed at 110 °C and the part fan itself off.
+Printed in PETG, this fan shroud has been tested and has not shown any heat damage, with the hotend at 300 °C, the nozzle at 0.2 mm from the hot bed at 110 °C and the part fan itself switched off.
 
 ![CR-6 Dragon with 90deg turned hotend part fan mount V3 v9](https://user-images.githubusercontent.com/13643644/127377857-5a43b7ab-4803-405c-8089-4774443ffe21.png)
 
