@@ -1,7 +1,16 @@
 # Dragon hotends
+
+**The Dragon Orbiter V1.5 has been updated to fit both the high and standard flow version. The older version is still available in the high flow and standard flow directories.
+
+The latest V4 mount for Dragon + Orbiter V1 now has a connection of top and bottom on the left side making the mount even more sturdy and probably more durable. A small cutout has been added to grant access to the screw of the daughterboard mount for ease of maintenance.
+These updates are to be ported to the other designs soon.**
+
+
+
 The Dragon hotend (TriangleLabs and Phaetus version are nearly identical and fit both) has a strong reputation of being a reasonably priced high qualtiy hotend. Personally i prefer the high flow version as it hasn't shown any of the disadvantages sometimes attributed to a high flow hotend but does have the advantage of being capable of melting al lot of plastic.
 
 # Part fan shrouds
+
 The part fan shroud in this directory fits all extruder versions, high flow as well as standard flow.
 
 2021-11-28 update: 
@@ -30,27 +39,30 @@ I ran the Teaching tech 4-way overhang test to validate my design: https://www.t
 This test produces overhangs up to 80°. Up to 60° the overhangs are perfect, 70° is perfectly useable and even 80° would be usefull if no other way is found and some sagging is accepted (PLA @200 °C, 0.4 mm nozzle, 0.2 mm layer height, 0.45 mm line width, 25 mm/s exterior walls). I tested slower print speeds but that produces lesser results. Using the 5015 the results are less good when printing faster. The 5020 manages up to 50 mm/s with no/barely loss in overhang quality. Beyond 50 mm/s outer layer speed a 10° lesser overhang maximum should be used.
 
 ### Print settings:
+
 - layer_height = 0.2
   layer_height_0 = 0.24
   line_width = 0.45
   infill_line_width = 0.4
-
-  bottom_layers = 3
-  top_layers = 3
-  wall_line_count = 3
-
+  
+  bottom_layers = 5
+  top_layers = 5
+  wall_line_count = 5
+  
   material_bed_temperature = 85
   material_print_temperature = 230
-
+  
   infill_pattern = gyroid
   infill_sparse_density = 20
-
+  
   cool_fan_speed = 40
   cool_fan_speed_max = 75
   cool_min_layer_time = 10
   cool_min_layer_time_fan_speed_max = 20
   cool_min_speed = 10
-
+  
   z_seam_corner = z_seam_corner_weighted
   z_seam_type = back
   z_seam_x = 235
+
+Adjust temperature and fan setting if using another filament than PETG
