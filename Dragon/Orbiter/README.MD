@@ -9,3 +9,4 @@ Main changes versus V3:
 - connect the top and bottom on the left side to make the mount very sturdy and avoid fatigue. (there have been reports of the mount failing after a number of months due to the main force being concentrated perpendicular to the layer lines instead of parallel)
 
 
+![CR-6 Dragon   Orbiter stator fan surface design test 2 v7](https://user-images.githubusercontent.com/13643644/150874067-219aee1c-7b6c-4296-9980-0e7817fea590.png)
