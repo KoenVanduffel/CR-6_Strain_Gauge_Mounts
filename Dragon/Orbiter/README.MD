@@ -1,5 +1,7 @@
 The added connection of top and bottom on the left side makes the use of exact tolerance necessary. A tolerance test piece is added please print this with the exact same settings as you intend to print the mount (don't cheap out on layer nr off walls as it might give you a false reading). The recommended print settings are one directory up.
 
+Test the fit wiht the test piece. The test piece should have a tight fit and go one with a little persuasion. If it fits loosely the mount will be too big and not clamp on the strain gauge.
+
 Main changes versus V3:
 
 - make the fan outlet compatible with both standard and high flow Dragons
