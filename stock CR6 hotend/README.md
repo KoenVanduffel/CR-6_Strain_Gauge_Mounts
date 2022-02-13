@@ -1,3 +1,7 @@
+The stock CR-6 hotend and Orbiter design can now be found on PrusaPrinters.org.
+
+[PrusaPrinters](https://www.prusaprinters.org/social/211289-k2van/collections/114416)
+
 The part fan cooling mount featured here is compatible with both Bowden and direct drive setup.
 
 Last modification adds a small cutout because some 5015 fans have rather large clips to close the body that were interfering with the mount.

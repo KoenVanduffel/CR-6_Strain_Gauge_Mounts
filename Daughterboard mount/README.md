@@ -1,5 +1,9 @@
 ### Updated daughter board mount and ribbon cable management
 
+The daughterboard mount  and ribbon cable holders can now be found on PrusaPrinters.org
+
+[PrusaPrinters](https://www.prusaprinters.org/prints/126838-cr-6-direct-drive-dragon-hf-sf-and-orbiter-v15-mou)
+
 The original hot end cover and daughter board mounts are not useful any more as the extruder & hot end mounts come in the way (except for some of the Bowden setup's). Therefore these companion daughter board mounts and cable management have been made. 
 ![20220102_094108](https://user-images.githubusercontent.com/13643644/147879391-6648a054-f397-416a-9230-2850e382e7cf.jpg)
 
