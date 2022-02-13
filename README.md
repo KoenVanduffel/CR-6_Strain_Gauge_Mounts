@@ -13,6 +13,8 @@
 
 # Creality CR-6 SE & MAX extruder and hotend collection mounting directly to the strain gauge
 
+## **I am in the process of moving this repo over to the PrusaPrinters.org repository of prints, for the latest updates please check the https://www.prusaprinters.org/social/211289-k2van/collections/114416 collection page. I link the relevant page in every subdirectory.**
+
 A collection of hot end and extruder combinations for the Creality CR-6 SE and CR-6 MAX is provided in this repo.
 
 ```For ease of use the structure has been changed with every possible hotend in a directory followed by directories with the different extruders.```
